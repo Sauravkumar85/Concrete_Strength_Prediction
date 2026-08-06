@@ -175,7 +175,7 @@ The application can be deployed easily using **Streamlit Community Cloud**.
 
 Live Demo:
 
-(Add your deployment link here)
+https://concretestrengthprediction-4yys5qbdewfkgpzcxdobdj.streamlit.app/
 
 ---
 
