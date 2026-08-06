@@ -169,18 +169,6 @@ The model is trained using standardized input features and saved using **Joblib*
 
 ---
 
-## Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
-### Prediction Result
-
-(Add screenshot here)
-
----
-
 ## Deployment
 
 The application can be deployed easily using **Streamlit Community Cloud**.
@@ -195,7 +183,7 @@ Live Demo:
 
 GitHub Repository:
 
-(Add your GitHub repository link here)
+Sauravkumar803213
 
 ---
 
